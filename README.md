@@ -38,30 +38,6 @@ pip install opencv-python matplotlib
 
 ---
 
-## 📷 Output
-
-### 1️⃣ Captured Image
-<img width="650" height="491" alt="image" src="https://github.com/user-attachments/assets/e54e9331-54dc-45f1-9139-14a005cefb0c" />
-
-
-
-
-### 2️⃣ Live Video Display
-<img width="667" height="490" alt="image" src="https://github.com/user-attachments/assets/077821bf-13b3-4c8d-b92f-bb75f4983bf9" />
-
-
-
-
-### 3️⃣ Resized Video
-<img width="686" height="537" alt="image" src="https://github.com/user-attachments/assets/2cd46346-fcb5-4f09-a558-f462ddbd8999" />
-
-
-
-
-
-### 4️⃣ Rotated Video
-<img width="398" height="546" alt="image" src="https://github.com/user-attachments/assets/7f8d3953-d934-417b-8c71-2e1d471779c8" />
-
 
 
 ---
